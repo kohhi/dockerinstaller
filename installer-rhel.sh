@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 COMPOSE_VERSION="1.25.4"
 
 ###### Password
